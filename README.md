@@ -12,7 +12,6 @@ I build websites with the aim of translating designs right down to the last pixe
 *   🧠  I'm learning ReactJs
 *   🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/michael_olu99" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/michael_olu99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,3 +27,4 @@ I build websites with the aim of translating designs right down to the last pixe
   <a href="https://www.linkedin.com/in/oludare-emmanuel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/michael_olu99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
+<a href="https://www.twitter.com/michael_olu99" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/michael_olu99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
