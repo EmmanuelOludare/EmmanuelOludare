@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Oludare
 ========================================================================================================================================
 
-Frontend Engineer
+Frontend Developer
 -----------------
 
 I build web-based applications with the aim of translating designs right down to the last pixel, with primary focus on responsive design, and accessibility.
